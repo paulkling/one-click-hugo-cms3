@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -97,6 +96,15 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: BBC
+      items:
+        - ddfdf
+        - dfmd
+        - df
+        - df
+        - d
+        - f
+      plan: BBC
+      price: '900'
 ---
-
 
